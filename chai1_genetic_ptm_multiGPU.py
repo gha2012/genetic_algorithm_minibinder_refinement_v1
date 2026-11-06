@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+
 # version: 2025-07-03 (refactored input handling)
 import os
 import random

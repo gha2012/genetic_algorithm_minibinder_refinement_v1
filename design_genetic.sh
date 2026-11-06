@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: Apache-2.0
+
 #SBATCH --gpus=a5000:1
 
 job_id=$SLURM_JOB_ID
